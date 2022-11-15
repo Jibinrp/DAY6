@@ -11,7 +11,7 @@ public Movie(String t, String s, String r) {
 }
 b) Write a second constructor for the class Movie, which takes a String representing
 the title of the movie and a String representing the studio as its arguments, and
-sets the respective class variables to these values, while the class variable rating
+sets the respective class variables to these values, while the class variable rating.
 is set to "PG".
 answer:
 public Movie (String t, String s) {
